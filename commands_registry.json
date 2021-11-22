@@ -1,1 +1,6 @@
-
+[
+  "displayName": "My Command Display Name",
+  "repo": "https://repo",
+  "realName": "My Command UUID",
+  "UUID": "1234-5678-1234-5678"
+]
